@@ -81,7 +81,7 @@ const Footer = () => {
                     </div>
                 </div>
             </div>
-            <div className="footer-text"> building:Miri Grintzaig 0556737092 mirigrinzaig111@gmail.com<br />.All rights reserved @</div>
+            <div className="footer-text"> building:Miri Grintzaig 0556737092 mirigrinzaig111@gmail.com<br />.All rights reserved ©</div>
         </div>
     )
 }
